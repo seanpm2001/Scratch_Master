@@ -1,0 +1,25 @@
+03(*) original project description 
+07(*) sorting projects by # A-Z Z-A Date modified, size, ID, 
+08(*) sorted project folder for categories 
+09(*) grouos of projects 
+10(*) link sorting 
+11(*) search with 01, 001, 0001
+12(*) 0 defaults to 1 and anything above 1336 defaults to 1
+13(*) year categories (2015, 2016, 2017)
+17(*) follower list 
+18(*) following list + backstory
+19(*) story about zombieliukang
+20(*) story about revengeseal
+21(*) story about my experience with griffpatch (include gruffpatch parody)
+22(*) stories section 
+23(*) original platform (Google chrome, Windows 7, Windows 8, Windows 10)
+24(*) why I quit uploading to scratch 
+25(*) block count 
+26(*) sprite count (luckily it is included into the project)
+27(*) sort by remixes
+28(*) comments on profile 
+29(*) profile 
+30(*) studios and associated studios 
+32(*) made in USA Walla Walla 
+48(*) sort by month 
+49(*) sort by years
