@@ -1,0 +1,3 @@
+5.13.2019
+
+I understimated how buggy the script is. There were WAY too many bugs, and it is going to take lots of time to fix. I am ready to move on to the studio part today
