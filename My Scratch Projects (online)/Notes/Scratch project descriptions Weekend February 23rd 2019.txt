@@ -1,0 +1,287 @@
+Scratch project descriptions Weekend February 22nd 2019
+
+1 | Windows XP remix
+modification date: March 2nd 2016
+sharing: not shared
+description: an attempt to recreate Windows XP in Scratch that I remixed
+category: Entertainment
+RAM: 128 megabytes
+Rating: 4.2/5.0 
+age: 6+
+
+2 | soft micro scratch 3.0
+modification date: March 2nd 2016 
+sharing: not shared
+description: an attempt to make a Version 3 of the Soft Micro scratch system, but it didn't differentiate enough between version 2
+category: Entertainment
+RAM: 256 megabytes
+Rating: 3.9/5.0
+age: 6+
+
+3 | Untitled-63
+modification date: March 2nd 2016 
+sharing: not shared
+description: an empty project
+category: template
+RAM: 32 megabytes
+Rating: 0.1/5.0
+age: 5+
+
+4 | soft micro scratch 1.06 beta      
+modification date: March 1st 2016
+sharing: shared
+description: A new version of the Soft Micro scratch, 1.0 based parody project
+category: entertainment
+RAM: 1024 megabytes (1.02 Gigabytes)
+Rating: 4.3/5.0
+age: 6+
+
+5 | Soft-Micro scratch 2.06 beta    
+modification date: March 3rd 2016
+sharing: shared
+description: a new update to the Soft Micro Scratch Windows NT based parody project
+category: entertainment
+RAM: 2048 megabytes (2.04 Gigabytes)
+Rating: 4.4/5.0
+age: 6+
+
+6 | soft micro scratch 1.07 beta       
+modification date: March 2nd 2016
+sharing: shared
+description: A new version of the Soft Micro scratch, 1.0 based parody project
+category: entertainment
+RAM: 1600 Megabytes (1.60 Gigabytes)
+Rating: 4.5/5.0
+age: 6+
+
+7 | Soft-Micro scratch 2.07 beta   
+modification date: March 2nd 2016
+sharing: shared
+description: a new update to the Soft Micro Scratch Windows NT based parody project
+category: entertainment 
+RAM: 2048 Megabytes (2.04 Gigabytes)
+Rating: 4.5/5.0
+age: 6+
+
+8 | soft micro scratch 1.08 beta        
+modification date: March 3rd 2016
+sharing: shared
+description: A new version of the Soft Micro scratch, 1.0 based parody project
+category: entertainment
+RAM: 2500 Megabytes (2.50 Gigabytes)
+Rating: 4.5/5.0
+age: 6+
+
+9 | soft micro scratch 1.09 beta         
+modification date: March 5th 2016
+sharing: shared
+description: A new version of the Soft Micro scratch, 1.0 based parody project
+category: entertainment
+RAM: 2500 Megabytes (2.50 Gigabytes)
+Rating: 4.6/5.0
+age: 6+
+
+10 | Soft-Micro scratch 2.08 beta    
+modification date: March 4th 2016
+sharing: shared
+description: a new update to the Soft Micro Scratch Windows NT based parody project
+category: entertainment
+RAM: 3000 Megabytes (3.00 Gigabytes)
+Rating: 4.7/5.0
+age: 6+
+
+11 | Soft-Micro scratch 2.09 beta    
+modification date: March 4th 2016 
+sharing: shared 
+description: a new update to the Soft Micro Scratch Windows NT based parody project
+category: entertainment
+RAM: 3100 Mebaytes (3.10 Gigabytes)
+Rating: 4.7/5.0
+age: 6+
+
+12 | soft micro scratch 1.10 beta          
+modification date: March 5th 2016 
+sharing: shared
+description: A new version of the Soft Micro scratch, 1.0 based parody project
+category: entertainment
+RAM: 3100 Megabytes (3.10 Gigabytes)
+Rating: 4.7/5.0
+age: 6+
+
+13 | 1 year scratchaversary game_ firewall 1.01
+modification date: March 6th 2016
+sharing: shared
+description: A game I made to celebrate my 1 year anniversary of my Scratch account, an adventure platforming game where you go through a huge adventure to free the scratch characters
+category: Gaming
+RAM: 1024 Megabytes (1.02 Gigabytes)
+Rating: 4.9/5.0
+age: 8+
+
+14 | Turkey Escape 1.00
+modification date: March 3rd 2016
+sharing: not shared
+description: A game where you are a Turkey and you have to escape a deathtrap
+category: Gaming
+RAM: 512 Megabytes
+Rating: 4.5/5.0
+age: 9+
+
+15 | diamond roll remix of rick roll
+modification date: March 1st 2016
+sharing: not shared
+description:
+category:
+RAM:
+Rating:
+age:
+
+16 |
+modification date: 
+sharing: shared
+description:
+category:
+RAM:
+Rating:
+age:
+
+17 |
+modification date: 
+sharing:
+description:
+category:
+RAM:
+Rating:
+age:
+
+18 |
+modification date: 
+sharing:
+description:
+category:
+RAM:
+Rating:
+age:
+
+19 |
+modification date: 
+sharing:
+description:
+category:
+RAM:
+Rating:
+age:
+
+20 |
+modification date: 
+sharing:
+description:
+category:
+RAM:
+Rating:
+age:
+
+21 |
+modification date: 
+sharing:
+description:
+category:
+RAM:
+Rating:
+age:
+
+22 |
+modification date: 
+sharing:
+description:
+category:
+RAM:
+Rating:
+age:
+
+23 |
+modification date: 
+sharing:
+description:
+category:
+RAM:
+Rating:
+age:
+
+24 |
+modification date: 
+sharing:
+description:
+category:
+RAM:
+Rating:
+age:
+
+25 |
+modification date: 
+sharing:
+description:
+category:
+RAM:
+Rating:
+age:
+
+26 |
+modification date: 
+sharing:
+description:
+category:
+RAM:
+Rating:
+age:
+
+27 |
+modification date: 
+sharing:
+description:
+category:
+RAM:
+Rating:
+age:
+
+28 |
+modification date: 
+sharing:
+description:
+category:
+RAM:
+Rating:
+age:
+
+29 |
+modification date: 
+sharing:
+description:
+category:
+RAM:
+Rating:
+age:
+
+30 |
+modification date: 
+sharing:
+description:
+category:
+RAM:
+Rating:
+age:
+
+31-40
+skipped
+
+links for Friday 
+
+01 | https://scratch.mit.edu/projects/100429552/#editor
+02 | https://scratch.mit.edu/projects/100500774/#editor
+03 | https://scratch.mit.edu/projects/100555457/#editor
+04 | https://scratch.mit.edu/projects/100116738/#editor
+05 | https://scratch.mit.edu/projects/99788653/#editor
+06 | https://scratch.mit.edu/projects/100555887/#editor
+07 | https://scratch.mit.edu/projects/100563254/#editor
+08 | https://scratch.mit.edu/projects/100571621/#editor
+09 | https://scratch.mit.edu/projects/100115294/#editor
+10 | https://scratch.mit.edu/projects/100505855/#editor
