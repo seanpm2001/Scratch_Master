@@ -1,0 +1,7 @@
+print ("About the Scratch archive personal rating system")
+print ("In the Scratch archive, Sean shows his personal rating for all projects. It is on a scale of 0.1 to 5.0")
+print ("There is a very brief amount of project series that Sean rates 5 out of 5.")
+print ("These ratings are based off of Sean's personal preferences for the project")
+print ("Projects between 0.1 and 1.5 rating are normally duplicate template projects (when Sean creates a new project, but immediately abandons it while it has nothing in it)")
+print ("Sean recommends projects with a 3.1 or higher rating for quality.") 
+noMore = input("Press [ENTER] key to exit")

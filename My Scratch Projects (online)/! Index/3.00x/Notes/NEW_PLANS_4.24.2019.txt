@@ -1,0 +1,77 @@
+Scratch archive
+Plan for studios has been made:
+* it will follow a similar system to the project list for indexing. There are over 300 studios, so
+it will take a while to implement. For external usage, each studio will have its own folder. 
+There will be an ID list of 4 things:
+=====================
+- Comments [ID: B1]
+- Projects [ID: C1]
+- Curators [ID: D1]
+- About [ID: E1]
+=====================
+:
+===>
+Comments tab
+The comment tab has all the comments for the studio (pretty obvious)
+===>
+Projects tab
+The projects tab will display a list of the projects (MUST include their URL) each one has an ID 
+that can be accessed and get info on them (in the future, you may need to turn the original 
+projects into functions)
+Downloading other peoples project will be on a whole another level. Project thumbnails won't be 
+added
+===>
+Curators tab
+The curators tab shows a list of all the curators of the studio. It will include an ID, a link, 
+but no profile picture. 
+===>
+About tab
+The about tab shows the info about the studio. It will also include a link to the studios 
+thumbnail (internal)
+***************************************************************************************************
+Your profile
+This is actually a really easy task. The profile will have 4 different IDs to navigate:
+=================
+- Comments [ID: B1]
+- Shared projects [ID: C1]
+- Liked projects [ID: D1] (don't do this until you archive and index all projects)
+- About [ID: E1]
+- Following [ID: F1]
+- Followers [ID: G1]
+=================
+:
+===>
+Comments tab
+Comments will be really easy to implement. Just scroll all the way down to the bottom, and select:
+* the username of the comments
+* the date of the comments
+* the content of the comments
+Keep the bad comments too, there are bound to be some due to your 1+ year inactivity from the site
+===>
+Shared Projects tab
+Keeps a list of your shared projects. There are over 700 shared projects, so this is going to 
+take a while. Keep them in a list here, it will be better organized
+===>
+Liked projects tab
+Keeps a list of all the projects you liked. There are over 1000 projects that you liked, so this
+is going to take a while. Keep them in an ID list, along with the project name, and a link
+===>
+About tab
+Shows off your description and about section, and your pinned project. Keep a copy of your activity
+log and label the date accordingly. Not much to this step
+===>
+Following tab
+Keep a list of all the accounts you followed. There are over 100, but not close to 1000, so it
+shouldn't take too long. Keep them in an ID list, along with their username, and link
+===>
+Followers tab
+Keep a list of all the accounts that followed you. There are over 100, but not even close to 1000,
+so it shouldn't take too long. Keep them in an ID list, along with their username, and link
+***************************************************************************************************
+Helpful tip:
+Once you finish archiving a user or project, put it in your bookmarks. Make sure EVERYTHING is 
+listed first, like analytics. Make the bookmark organization for your projects similar to the 
+main project archive system 
+DON'T FORGET TO DO THIS FOR YOUR SECOND ACCOUNT AS WELL!
+***************************************************************************************************
+You should try implementing these ASAP
