@@ -1,0 +1,16 @@
+====================================================================================================
+Issues with a project:
+Unresolved as of May 20th 2019
+====================================================================================================
+1 ) Spacing causes indentation (syntax) error. I need to get a flawless macro that can fix over a
+thousand lines within a short amount of time, flawlessly
+* no extra spaces
+* no extra tabs
+* no missing spaces
+* no missing tabs 
+* follows the order needed
+====================================================================================================
+2 ) missing 4 projects 
+2 projects are inaccessible due to instability of the website I am archiving from 
+2 projects need to be found
+====================================================================================================
