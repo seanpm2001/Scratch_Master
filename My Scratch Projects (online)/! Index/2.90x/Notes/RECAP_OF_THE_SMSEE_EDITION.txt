@@ -1,0 +1,13 @@
+Recap of the Soft Micro Scratch Error Edition downloading phase
+after several weeks of suffering, I have finally gotten through downloading all the Soft Micro Scratch error edition projects. It was so severe, I had to go through extra downloads to get through 
+During this experience of the unstable Scratch 3 download period, I had to go through crash after crash, freeze after freeze, and I made some observations:
+
+the page would crash up to 3 times before I could get a guranteed download
+
+The "a web page is slowing down your browser" message meant that Scratch is going to pull through and load the project
+
+Random occurance: the page would freeze, and you would have to constantly open it in a new tab to load it. The "load in new Window" was a guranteed failsafe that it would even start to load
+
+Duplicating the broken tab would also work
+
+I am glad to finally be done with this.

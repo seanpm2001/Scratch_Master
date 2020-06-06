@@ -1,0 +1,14 @@
+WRITE THIS INTO 2.93 DEV LOG (SCRATCH INDEX)
+==================================================
+
+everything below the asterisks and nothing above or at them
+*****
+I like some of the elements of Scratch 3. Some cool new features that I didn't get to use when I used to use Scratch are here, such as a project loading animation screen, touchscreen compatibility, vertical and horizontal blocks, and more.
+But, it also sucks really bad. I have mentioned this before, but I feel like saying it again after having to deal with it for hours every day: Scratch 3 is completely broken. There is just no excuse for what they did.
+First off, the target demographic for Scratch is kids between the age of 5 and up. There are lots of kids using this site. What the people at MIT didn't take into mind is that not all parents can afford to give their kids (or even themselves) really powerful computers. Not everyone has that yet. Even I didn't have that until February of this year. 
+Scratch 2 used to be really lightweight, and could be run on even 2005 computers. However, Scratch 3 is so bloated, that it is really hard to use on lower-end computers. I wouldn't even be able to work on this archive if I didn't finally get the chance to upgrade from 4 gigabytes of RAM to 8. Keep in mind, that there are still lots of people who have computers with 2 gigabytes or less of RAM and don't have the option to upgrade.
+This obviously limits the access to most of the users and makes the experience a lot more painful than it has to be. It's almost like they intentionally bloated it. My computer can barely handle projects that used to run fast on older computers. 
+The other issue is the instability. Ever since Scratch 3 was released, it was extremely unstable. Projects were very prone to crash, and I still have a couple projects that I can't even see anymore. It would have been fine if they were to rush to fix this, but it is almost May. These issues were very common even in January. They need to focus on stability and not features. Without stability, you can't have features.
+One last thing, not that severe, but the interface is terrible now. It looks really dumbed down, and just very basic with no style. There is no option to change it back, just boring solid color elements.
+You have had over 3 months to fix this MIT, but you didn't. Instead, you decided to focus on implementing more sprites, and making it even more bloated. I am honestly very disappointed in this. I have dealt with slow downloads for months. I could have finished this archive even earlier if it wasn't for this excessive bloat.
+Unfortunately, they won't even see this criticism until it is too late, as this project is still private. 
